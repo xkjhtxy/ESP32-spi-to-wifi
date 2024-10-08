@@ -1,0 +1,4 @@
+FANKE_LVGL里是我用STM32H7的测试工程，主控为STM32H7B0VBT6+RGB屏幕和lvgl
+我这里面用的是SPI3，可以改成其他接口，使用的是HAL库，如果使用的是普通的ESP32则SPI速率不要超过10MHz否则MISO会出问题
+主要是靠SPI的三个中断来控制收发
+receiver里面是ESP32的代码，用的是普通的ESP32
