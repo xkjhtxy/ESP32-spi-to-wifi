@@ -1,0 +1,16 @@
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\lv_font.c
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\lv_font.h
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\../lv_conf_internal.h
+fanke_lvgl\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\../lv_conf_kconfig.h
+fanke_lvgl\lv_font.o: ../lvgl/examples/porting/../../lv_conf.h
+fanke_lvgl\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+fanke_lvgl\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\lv_symbol_def.h
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\../misc/lv_area.h
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\../misc/lv_utils.h
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\../misc/lv_log.h
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\../misc/lv_types.h
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\../misc/lv_assert.h
+fanke_lvgl\lv_font.o: ..\lvgl\src\font\../misc/lv_mem.h
+fanke_lvgl\lv_font.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

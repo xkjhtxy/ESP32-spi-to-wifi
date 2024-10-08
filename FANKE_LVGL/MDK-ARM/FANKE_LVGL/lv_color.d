@@ -1,0 +1,13 @@
+fanke_lvgl\lv_color.o: ..\lvgl\src\misc\lv_color.c
+fanke_lvgl\lv_color.o: ..\lvgl\src\misc\lv_color.h
+fanke_lvgl\lv_color.o: ..\lvgl\src\misc\../lv_conf_internal.h
+fanke_lvgl\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+fanke_lvgl\lv_color.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+fanke_lvgl\lv_color.o: ../lvgl/examples/porting/../../lv_conf.h
+fanke_lvgl\lv_color.o: ..\lvgl\src\misc\lv_assert.h
+fanke_lvgl\lv_color.o: ..\lvgl\src\misc\lv_log.h
+fanke_lvgl\lv_color.o: ..\lvgl\src\misc\lv_types.h
+fanke_lvgl\lv_color.o: ..\lvgl\src\misc\lv_mem.h
+fanke_lvgl\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+fanke_lvgl\lv_color.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+fanke_lvgl\lv_color.o: ..\lvgl\src\misc\lv_math.h

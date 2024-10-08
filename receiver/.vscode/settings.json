@@ -1,0 +1,35 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM7",
+  "idf.adapterTargetName": "esp32",
+  "files.associations": {
+    "string_view": "c",
+    "regex": "c",
+    "freertos.h": "c",
+    "task.h": "c",
+    "semphr.h": "c",
+    "queue.h": "c",
+    "mwifi.h": "c",
+    "esp_event.h": "c",
+    "esp_log.h": "c",
+    "spi_slave.h": "c",
+    "spi.h": "c",
+    "nvs_flash.h": "c",
+    "sdkconfig.h": "c",
+    "*.inc": "c",
+    "mserver.h": "c",
+    "stdint.h": "c",
+    "cerrno": "c",
+    "*.ipp": "c",
+    "cstring": "c",
+    "gpio.h": "c",
+    "save_flash.h": "c",
+    "rtc_periph.h": "c",
+    "array": "c",
+    "string": "c",
+    "unistd.h": "c"
+  },
+  "idf.openOcdConfigs": [
+    "board/esp32-wrover-kit-3.3v.cfg"
+  ]
+}

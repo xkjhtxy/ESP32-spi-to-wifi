@@ -1,0 +1,17 @@
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\lv_bidi.c
+fanke_lvgl\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\lv_bidi.h
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\../lv_conf_internal.h
+fanke_lvgl\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+fanke_lvgl\lv_bidi.o: ../lvgl/examples/porting/../../lv_conf.h
+fanke_lvgl\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\lv_txt.h
+fanke_lvgl\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\lv_area.h
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\../font/lv_font.h
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\../font/lv_symbol_def.h
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\lv_printf.h
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\lv_types.h
+fanke_lvgl\lv_bidi.o: ..\lvgl\src\misc\../misc/lv_mem.h
+fanke_lvgl\lv_bidi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

@@ -1,0 +1,11 @@
+fanke_lvgl\cjson_utils.o: ..\JSON\cJSON_Utils.c
+fanke_lvgl\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+fanke_lvgl\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+fanke_lvgl\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+fanke_lvgl\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+fanke_lvgl\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+fanke_lvgl\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+fanke_lvgl\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\float.h
+fanke_lvgl\cjson_utils.o: ..\JSON\cJSON_Utils.h
+fanke_lvgl\cjson_utils.o: ..\JSON\cJSON.h
+fanke_lvgl\cjson_utils.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

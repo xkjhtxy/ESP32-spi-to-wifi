@@ -1,0 +1,11 @@
+fanke_lvgl\lv_ll.o: ..\lvgl\src\misc\lv_ll.c
+fanke_lvgl\lv_ll.o: ..\lvgl\src\misc\lv_ll.h
+fanke_lvgl\lv_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+fanke_lvgl\lv_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+fanke_lvgl\lv_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+fanke_lvgl\lv_ll.o: ..\lvgl\src\misc\lv_mem.h
+fanke_lvgl\lv_ll.o: ..\lvgl\src\misc\../lv_conf_internal.h
+fanke_lvgl\lv_ll.o: ..\lvgl\src\misc\../lv_conf_kconfig.h
+fanke_lvgl\lv_ll.o: ../lvgl/examples/porting/../../lv_conf.h
+fanke_lvgl\lv_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+fanke_lvgl\lv_ll.o: ..\lvgl\src\misc\lv_types.h
